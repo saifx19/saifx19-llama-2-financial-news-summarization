@@ -1,6 +1,6 @@
 # Financial News Summarization with Fine-Tuned LLaMA Model
 
-This repository contains a notebook for fine-tuning the LLaMA model to summarize financial news articles and analyze their impact on stock markets and sectors.
+This repository contains a notebook for fine-tuning the LLaMA model to summarize financial news articles and analyze their impact on stock markets and specific sectors.
 
 
 ## Overview
