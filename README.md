@@ -2,6 +2,10 @@
 
 This repository contains a notebook for fine-tuning the LLaMA model to summarize financial news articles and analyze their impact on stock markets and specific sectors.
 
+## Description
+
+In today's fast-paced world, financial news is readily available from numerous sources, but many people struggle to find the time to sift through extensive articles and reports. As a result, understanding the impact of recent developments—such as economic indicators, earnings reports, and geopolitical events—can be challenging. This fine-tuned LLaMA 2 model addresses this need by summarizing complex financial news into concise and accessible summaries. By distilling key insights, the model helps users quickly grasp how various events influence stock markets and specific sectors, making it an invaluable tool for anyone looking to stay informed without dedicating hours to reading.
+
 
 ## Overview
 
