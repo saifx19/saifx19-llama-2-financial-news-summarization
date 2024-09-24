@@ -21,7 +21,7 @@ In today's fast-paced world, financial news is readily available from numerous s
 
 - **Google Drive Authentication**: While trying to save the fine-tuned model to Google Drive, I encountered difficulties in receiving the authentication codes required to grant Colab access. As a workaround, I saved the fine-tuned model in the Colab directory instead.
 
-- **Loading Errors**: When attempting to load the fine-tuned model from the Colab directory, I faced several errors that could not be resolved in the available time.
+- **Loading Errors**: When attempting to load the fine-tuned model from the Colab directory, I faced several errors that could not be resolved in the available time (Error: Your session crashed after using all available RAM).
 
 
 
